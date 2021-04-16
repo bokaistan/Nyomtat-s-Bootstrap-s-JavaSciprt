@@ -6,6 +6,7 @@ body{
   background-position: center;
   height: 250px;
   padding-top: 75px;
+  background-image: url(drukletters.jpg);
 }
 
 .bg-fej h1{
@@ -14,6 +15,9 @@ body{
   text-transform: uppercase;
   text-decoration: underline overline;
   font-weight: bold;
+}
+#szelesseg #magassag{
+  margin: 0px auto 15px auto;
 }
 
 .container{
